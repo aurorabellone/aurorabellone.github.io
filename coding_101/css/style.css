@@ -1,0 +1,36 @@
+body {
+  background-color: #74948c;
+  color: white;
+}
+
+h1 {
+  color: #335069;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2{
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 30px;
+}
+
+p{
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  max-height: 300px;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
